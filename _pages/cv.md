@@ -27,7 +27,7 @@ Work Experience
   * Training the BME 688/690 sensor using AI machine learning to consistently record and analyze accurate readings of individual gas compositions with a goal accuracy of at least 90%.
   * Developing a platform for the BME 688/690 sensor using C and Altium, eventually integrating the sensor’s capabilities into wearable electronics for audiences sensitive to certain environmental factors (ex: VOCs).
 
-* Scintillating Bubble Chamber @ Northwestern|Research Assistant|Batavia, IL|May – Aug 2023
+* Scintillating Bubble Chamber|Research Assistant|Batavia, IL|May – Aug 2023
   * Physics based research laboratory at Northwestern focused on dark matter detection.
   * Assembled multiple large coaxial cables from scratch using crimping tools and soldering for the functionality of an LED panel and vacuum chamber.
   * Analyzed and tuned 8 onboard noise detectors using an oscilloscope (50% increase in sensitivity) to ensure proper noise detection.
