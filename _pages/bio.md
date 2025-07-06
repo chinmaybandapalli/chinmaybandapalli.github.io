@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "About Me"
 permalink: /bio/
 author_profile: true
 redirect_from:
@@ -8,6 +7,7 @@ redirect_from:
 ---
 Elevator Pitch
 ====
+Electrical engineering major with strong electronics laboratory skills and hardware testing experience specializing in digital design and circuit analysis. Proficient with collaborating in fast-paced, team-based environments, troubleshooting and testing electrical work, and tackling circuit design tasks. Actively involved in research and development through multiple research lab experiences. Seeking an internship in the circuit technology field for Summer 2026.
 
 Purpose
 ====
@@ -23,4 +23,6 @@ Education
 ====
 At Georgia Tech, I am pursing a Bachelor's in Electrical Engineering with threads in [Circuit Technology](https://ece.gatech.edu/circuit-technology-thread) and [Electronic Devices](https://ece.gatech.edu/electronic-optoelectronic-devices-thread). The combination of these threads are exactly what I am looking to do in the future as both play into semiconductor devices, chip making, and circuit analysis. My projected graduation date is May 2027.
 
-Some notable coursework I have done so far include: 
+Some notable coursework I have done so far include: [Circuit Analysis](https://ece.gatech.edu/courses/ece2040), [Digital Design Laboratory](https://ece.gatech.edu/courses/ece2031), [Fundamentals of Digital Design Systems](https://ece.gatech.edu/courses/ece2020), [Programming for HW/SW Systems](https://ece.gatech.edu/courses/ece2035). These courses helped teach and reinforce my knowledge of digital design, programming, and circuit analysis. Some courses I look forward to taking in the near future include [Microelectronic Circuits](https://ece.gatech.edu/courses/ece3040), [Microelectronics Laboratory](https://ece.gatech.edu/courses/ece3043), [Semiconductor Devices](https://ece.gatech.edu/courses/ece3450), and [IC Fabrication](https://ece.gatech.edu/courses/ece4452), as they all relate to semiconductor engineering and circuit fabrication.
+
+
