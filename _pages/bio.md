@@ -31,15 +31,20 @@ At Georgia Tech, I am pursing a Bachelor's in Electrical Engineering with thread
 
 Some notable coursework I have done so far include: [Circuit Analysis](https://ece.gatech.edu/courses/ece2040), [Digital Design Laboratory](https://ece.gatech.edu/courses/ece2031), [Fundamentals of Digital Design Systems](https://ece.gatech.edu/courses/ece2020), [Programming for HW/SW Systems](https://ece.gatech.edu/courses/ece2035). These courses helped teach and reinforce my knowledge of digital design, programming, and circuit analysis. Some courses I look forward to taking in the near future include [Microelectronic Circuits](https://ece.gatech.edu/courses/ece3040), [Microelectronics Laboratory](https://ece.gatech.edu/courses/ece3043), [Semiconductor Devices](https://ece.gatech.edu/courses/ece3450), and [IC Fabrication](https://ece.gatech.edu/courses/ece4452), as they all relate to semiconductor engineering and circuit fabrication.
 
-Along with coursework, I joined the [Marine Robotics Group](https://www.gt-mrg.org/about), specifically working on the Microtransat project. As an electrical team member, I am growing my skills in PCB design using KiCAD as I work to design the boat's main PCB. [![mrg](/images/mrg.png)](https://www.gt-mrg.org/about)
+Along with coursework, I joined the [Marine Robotics Group](https://www.gt-mrg.org/about), specifically working on the Microtransat project. As an electrical team member, I am growing my skills in PCB design using KiCAD as I work to design the boat's main PCB. 
 
-Here is a quick introduction to the Microtransat project we are doing: <https://youtu.be/F39G02bMFhE?si=OtCjlG09Ebsj5nz9>
+[![mrg](/images/mrg.png)](https://github.com/gt-marine-robotics-group)
+
+Here is a quick introduction to the Microtransat project we are doing:
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/F39G02bMFhE?si=OtCjlG09Ebsj5nz9)](https://youtu.be/F39G02bMFhE?si=OtCjlG09Ebsj5nz9)
 
 Research Experience
 ====
 I have worked under a few research labs at both Northwestern and Georgia Tech. In the summer of 2022, I worked with Professor Eric Dahl on his scintillating bubble chamber at Fermilab. The purpose of the bubble chamber was to detect dark matter particles using liquid argon. I specifically worked on the wiring and wire fabrication of the machine, gaining skills in crimping, soldering, and general electrical troubleshooting. I also had to test the quality of the hundreds of sensors (temperature, noise) on the chamber using a multimeter and oscilloscope. For more information, click [here.](https://arxiv.org/abs/2207.12400)
 
-In Spring 2025, I joined the [Flavin Neuromachines Laboratory](https://flavinlab.io/) at Georgia Tech. Led by Professor Matthew Flavin, the group focuses on wearable haptic devices mainly applicable to patient care. Currently, I am working on a project that involves the BME 688 environmental sensor. The sensor can measure temperature, pressure, humidity, and VOCs in the air using artificial intelligence. We are currently looking at ways to integrate the sensor into wearable haptics. Through this project, I am learning how to use microcontroller platforms (Arduino, ESP32, and nRF), programming languagues (C/C++), and ECAD programs (Altium and KiCAD). [![flavin](/images/flavin.png/)](https://flavinlab.io/)
+In Spring 2025, I joined the [Flavin Neuromachines Laboratory](https://flavinlab.io/) at Georgia Tech. Led by Professor Matthew Flavin, the group focuses on wearable haptic devices mainly applicable to patient care. Currently, I am working on a project that involves the BME 688 environmental sensor. The sensor can measure temperature, pressure, humidity, and VOCs in the air using artificial intelligence. We are currently looking at ways to integrate the sensor into wearable haptics. Through this project, I am learning how to use microcontroller platforms (Arduino, ESP32, and nRF), programming languagues (C/C++), and ECAD programs (Altium and KiCAD). 
+![flavin](/images/flavin.png/)
 
 For Summer 2025, I am working at Northwestern under Professor John Rogers in his [Rogers Research Group](https://rogersgroup.northwestern.edu/), where I will be working with a broader range of bioelectronics and wearable haptic devices. At the moment, I am working on the data analysis/graph plotting of finished clinical trials with patients of compromised foot function. More on this soon!
 
