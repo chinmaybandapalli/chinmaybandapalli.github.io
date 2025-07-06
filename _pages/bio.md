@@ -22,6 +22,9 @@ My passion for engineering loosely stemmed from building Legos and preferring ma
 
 When searching for colleges, I priortized colleges that had strong hands-on engineering programs because I wanted to work with as much circuitry hardware as possible. I was fortunate enough to get accepted into Georgia Tech, a college I knew would help me explore circuits, electronics, and semiconductor engineering. 
 
+Outside of academics, I still enjoy keeping up with computer hardware, both new and vintage. I am also big on building keyboards, and I have made at least a dozen for peers in the past 5 years. My other hobbies include watching and playing basketball and cooking (still a novice!). 
+
+
 Education
 ====
 At Georgia Tech, I am pursing a Bachelor's in Electrical Engineering with threads in [Circuit Technology](https://ece.gatech.edu/circuit-technology-thread) and [Electronic Devices](https://ece.gatech.edu/electronic-optoelectronic-devices-thread). The combination of these threads are exactly what I am looking to do in the future as both play into semiconductor devices, chip making, and circuit analysis. My projected graduation date is May 2027.
@@ -30,8 +33,22 @@ Some notable coursework I have done so far include: [Circuit Analysis](https://e
 
 Along with coursework, I joined the [Marine Robotics Group](https://marinerobotics.gtorg.gatech.edu/), specifically working on the Microtransat project. As an electrical team member, I am growing my skills in PCB design using KiCAD as I work to design the boat's main PCB. 
 
+Here is a quick introduction to the Microtransat project we are doing: <https://youtu.be/F39G02bMFhE?si=OtCjlG09Ebsj5nz9>
+
 Research Experience
 ====
+I have worked under a few research labs at both Northwestern and Georgia Tech. In the summer of 2022, I worked with Professor Eric Dahl on his scintillating bubble chamber at Fermilab. The purpose of the bubble chamber was to detect dark matter particles using liquid argon. I specifically worked on the wiring and wire fabrication of the machine, gaining skills in crimping, soldering, and general electrical troubleshooting. I also had to test the quality of the hundreds of sensors (temperature, noise) on the chamber using a multimeter and oscilloscope. For more information, click [here.](https://arxiv.org/abs/2207.12400)
+
+In Spring 2025, I joined the [Flavin Neuromachines Laboratory](https://flavinlab.io/) at Georgia Tech. Led by Professor Matthew Flavin, the group focuses on wearable haptic devices mainly applicable to patient care. Currently, I am working on a project that involves the BME 688 environmental sensor. The sensor can measure temperature, pressure, humidity, and VOCs in the air using artificial intelligence. We are currently looking at ways to integrate the sensor into wearable haptics. Through this project, I am learning how to use microcontroller platforms (Arduino, ESP32, and nRF), programming languagues (C/C++), and ECAD programs (Altium and KiCAD). ![flavin]
+
+For Summer 2025, I am working at Northwestern under Professor John Rogers in his [Rogers Research Group](https://rogersgroup.northwestern.edu/), where I will be working with a broader range of bioelectronics and wearable haptic devices. At the moment, I am working on the data analysis/graph plotting of finished clinical trials with patients of compromised foot function. More on this soon!
+
+Skills
+====
+
+
+
+
 
 
 
