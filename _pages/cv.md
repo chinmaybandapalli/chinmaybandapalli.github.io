@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,32 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Electrical Engineering, Georgia Institute of Technology, May 2027
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Flavin Neuromachines Laboratory | ECE Undergraduate Researcher | Altanta, GA | Dec 2024 – Present 	
+  * Haptic electronics research laboratory at Georgia Tech focused on patient care and biomedical applications.
+  * Training the BME 688/690 sensor using AI machine learning to consistently record and analyze accurate readings of individual gas compositions with a goal accuracy of at least 90%.
+  * Developing a platform for the BME 688/690 sensor using C and Altium, eventually integrating the sensor’s capabilities into wearable electronics for audiences sensitive to certain environmental factors (ex: VOCs).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Scintillating Bubble Chamber @ Northwestern | Research Assistant | Batavia, IL | May – Aug 2023
+  * Physics based research laboratory at Northwestern focused on dark matter detection.
+  * Assembled multiple large coaxial cables from scratch using crimping tools and soldering for the functionality of an LED panel and vacuum chamber.
+  * Analyzed and tuned 8 onboard noise detectors using an oscilloscope (50% increase in sensitivity) to ensure proper noise detection.
+  * Repaired dozens of broken/loose sockets in the chamber’s ports and buses using crimping tools for proper electrical contact and functionality with its peripherals.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: C, Python, Java, RISC-V, VHDL, Julia
+* Hardware: ESP32 mbed microcontroller, FPGAs, oscilloscope, logic analyzer, soldering
+* Software: Autodesk Inventor, Altera Quartus Prime, NI Multisim, KiCAD (novice)
+* Professional Organizations: Institute of Electrical and Electronics Engineers
+* Communication: Design proposals, technical/lab reports, presentations 
+* Languages: English (native), Telugu (beginner)
+
