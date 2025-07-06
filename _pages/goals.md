@@ -16,7 +16,7 @@ Master's Degree in Electrical Engineering (Aug 2027/2028 - May 2028/2029)
 ----
 Through the BS/MS program at Georgia Tech, I will get a headstart on my master's degree, as it is in high demand for the semiconductor industry. By 2028/2029, I hope to graduate with a master's degree. Before graduation, I will look out for semiconductor related jobs to ensure I have something planned after graduation. Like with my bachelor's, I will pursue semiconductor specific internships and research opportunties to make myself more competitive for the job market. 
 
-Junior Electrical Engineer Role (Post Graduation) 
+Junior Electrical Engineer Role (<1 Year Post Graduation) 
 ----
 Due to the increasing competitiveness of the job market, it may be difficult to find a job right after graduation, especially one related to the semiconductor field. I hope to find a job within a year after graduation. If there is downtime between graduation and my first job, I will continue to grow my skills in any way I could to prepare for a more fitting role. Even if the role is not directly related to semiconductors, an electrical engineer role would be useful to build experience in the industry. I can learn other skills in other branches such as power or RF. Ideally, I would want a job where I would gain hands-on experience working with hardware (Test or Fabrication), but any role with applicable skills to other roles will be valuable. 
 
