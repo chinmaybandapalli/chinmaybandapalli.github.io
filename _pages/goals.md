@@ -27,7 +27,7 @@ Eventually, I hope to finally land a role at a semiconductor company within 5-7 
 Next Steps
 ====
 
-Gain experience with semiconductor engineering and analog/digital circuit design
+Gain knowledge and experience with semiconductor engineering and analog/digital circuit design
 ----
 Since I aspire to create semiconductor devices in the future, I want to have the skills needed to thrive in the industry. Luckily, there are plenty of opportunites at Georgia Tech and other extracurriculars to help me towards my goal. For courses, I hope that [Semiconductor Devices](https://ece.gatech.edu/courses/ece3450) and [IC Fabrication](https://ece.gatech.edu/courses/ece4452) can build the foundation for understanding semiconductor devices, while [Analog Integrated Circuits](https://ece.gatech.edu/courses/ece4430) and [Digital Integrated Circuits](https://ece.gatech.edu/courses/ece4420) can improve my skills with the digital and analog world. These classes also promise hands-on experience with design an fabrication of integrated circuits and wafers. As for clubs, I can look into [SiliconJackets](https://siliconjackets.gt/), a group that works with semiconductor design and tapeout. They also have valuable connections with the industry that I could possibly take advantage of. Research labs will also be useful to gain the necessary knowledge and skills to remain competitive. I could continue my work with the Flavin group as I will eventually do circuit design, or pursue semiconductor adjacent groups here at Georgia Tech. I will actively to pursue summer internships, targetting roles that relate to circuit/PCB design, test, and semiconductor roles from companies such as or similar to Texas Instruments, Micron, and Infineon.
 
