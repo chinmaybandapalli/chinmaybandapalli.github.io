@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+ <a href="files/Chinmay_Bandapalli_Resume.pdf" download="files/Chinmay_Bandapalli_Resume.pdf">Download the pdf file</a>
+
 Education
 ======
 B.S. in Electrical Engineering, Georgia Institute of Technology, May 2027
