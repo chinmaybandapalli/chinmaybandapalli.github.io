@@ -50,7 +50,23 @@ For Summer 2025, I am working at Northwestern under Professor John Rogers in his
 
 Skills
 ====
+Through my courses, clubs, research, and projects, I have been developing and acquiring skills related to electrical engineering, but also some soft skills that may be valuable in the industry. I hope to build off these technical and soft skills to eventually prepare myself for the semiconductor industry.
 
+Programming
+----
+I am familiar with Python and Java. I have worked with Python to construct basic programs, conduct data analysis in research groups, and code robot autonomy in my VEX robotics group. I regularly work with C in the Flavin group to code our sensors, and I have taken a course that goes in-depth about how C functions [Programming for HW/SW Systems](https://ece.gatech.edu/courses/ece2035). I have also used C in several projects such as a snake game and a puzzle solver, learning how to construct efficient solutions to a coding problem. Other languages I have worked with are RISC-V (from the same course), VHDL, and Julia. I am currently learning how to use Julia in the Rogers Group to conduct pressure map plotting. 
+
+Hardware
+----
+I have experience with microcontroller programming through using Arduino and ESP32 in the Flavin group and the Marine Robotics Group. I have programmed FPGAs in [Digital Design Laboratory](https://ece.gatech.edu/courses/ece2031) on the DE-10 Standard to run a simple computer and several state machine exercises. Through my lab experience at Northwestern and Georgia Tech, I became familiar with electronic test bench equipment such oscilloscopes, logic analyzers, and mulitmeters for electrical troubleshooting. In all my electrical engineering related experiences, I have honed my soldering skills to create wires, attach components, etc. 
+
+Software
+----
+I am currently learning how to use various ECAD programs such as KiCAD and Altium to design PCBs. Specifically, I am working on designing a keyboard PCB using KiCAD, and I hope to be able to use KiCAD proficiently by the end of the project to utilize in MRG and the Flavin Group. I have used Altera Quartus Prime in Digital Design Lab to code the DE-10 standard, where we learned how to make block schematics and VHDL to make digital design systems (simple computer, state machine light system). In terms of simulation, I have used NI Multisim to simulate various counters and HEX display systems. I wish to learn a SPICE program such as LTSpice to match an industry requirement for interns to know SPICE. 
+
+Communication
+----
+I am quite experienced in team environments, as almost all of my experiences in both college and high school has involved team building, collaboration, and prototying in a group in order to succeed. I am also familiar with working under pressure as we constantly have to juggle deadlines in competition clubs like MRG. I know what it is like to work with people: sharing ideas, providing criticism and potential solutions, and being open to different perspectives. Design proposals, technical/lab reports, presentation skills were all developed through classes here at Georgia Tech, especially in Digital Design Lab. Our final project in that class involved a design proposal presentation, several lab reports on our progress and results, and live demonstration of our product (which was an LED peripheral for the DE-10). 
 
 
 
