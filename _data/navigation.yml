@@ -13,6 +13,9 @@ main:
 
   - title: "Resume"
     url: /cv/
+
+  - title: "Goals"
+    url: /goals/
   
   - title: "Projects"
     url: /projects/
