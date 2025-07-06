@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- <a href="files/Chinmay_Bandapalli_Resume.pdf" download="files/Chinmay_Bandapalli_Resume.pdf">Download the pdf file</a>
+ <a href="/files/Chinmay_Bandapalli_Resume.pdf" download="Chinmay_Bandapalli_Resume.pdf">Download Resume</a>
 
 Education
 ======
