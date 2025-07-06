@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Georgia Institute of Technology, May 2027
+B.S. in Electrical Engineering, Georgia Institute of Technology, May 2027
 
 Relevant Coursework
 ======
-Digital Design: Design and implementation of digital systems on FPGAs; CAD tools (Quartus), project design methodologies, and digital logic synthesis; assembly language programming
-Circuit Analysis: Basic concepts of DC and AC circuit theory and analysis; first-order and second-order circuit analysis; sinusoidal steady state analysis and the phasor domain
-C/Assembly: Creation of complex execution and storage mechanisms; instruction set architecture and RISC-V; software design using the high-level programming language C; Programming design projects.
+* Digital Design: Design and implementation of digital systems on FPGAs; CAD tools (Quartus), project design methodologies, and digital logic synthesis; assembly language programming
+* Circuit Analysis: Basic concepts of DC and AC circuit theory and analysis; first-order and second-order circuit analysis; sinusoidal steady state analysis and the phasor domain
+* HW/SW Systems: Creation of complex execution and storage mechanisms; instruction set architecture and RISC-V; software design using the high-level programming language C; Programming design projects.
 
 
 Work Experience
@@ -36,10 +36,10 @@ Scintillating Bubble Chamber|Research Assistant|Batavia, IL|May – Aug 2023
   
 Skills
 ======
-Programming: C, Python, Java, RISC-V, VHDL, Julia
-Hardware: ESP32 mbed microcontroller, FPGAs, oscilloscope, logic analyzer, soldering
-Software: Autodesk Inventor, Altera Quartus Prime, NI Multisim, KiCAD (novice)
-Professional Organizations: Institute of Electrical and Electronics Engineers
-Communication: Design proposals, technical/lab reports, presentations 
-Languages: English (native), Telugu (beginner)
+* Programming: C, Python, Java, RISC-V, VHDL, Julia
+* Hardware: ESP32 mbed microcontroller, FPGAs, oscilloscope, logic analyzer, soldering
+* Software: Autodesk Inventor, Altera Quartus Prime, NI Multisim, KiCAD (novice)
+* Professional Organizations: Institute of Electrical and Electronics Engineers
+* Communication: Design proposals, technical/lab reports, presentations 
+* Languages: English (native), Telugu (beginner)
 
