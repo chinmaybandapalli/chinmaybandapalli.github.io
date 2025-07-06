@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 B.S. in Electrical Engineering, Georgia Institute of Technology, May 2027
+* GPA: 4.0
 
 Relevant Coursework
 ======
 * Digital Design: Design and implementation of digital systems on FPGAs; CAD tools (Quartus), project design methodologies, and digital logic synthesis; assembly language programming
 * Circuit Analysis: Basic concepts of DC and AC circuit theory and analysis; first-order and second-order circuit analysis; sinusoidal steady state analysis and the phasor domain
 * HW/SW Systems: Creation of complex execution and storage mechanisms; instruction set architecture and RISC-V; software design using the high-level programming language C; Programming design projects.
-
 
 Work Experience
 ======
@@ -33,6 +33,12 @@ Scintillating Bubble Chamber | Research Assistant | Batavia, IL | May – Aug 20
 * Analyzed and tuned 8 onboard noise detectors using an oscilloscope (50% increase in sensitivity) to ensure proper noise detection.
 * Repaired dozens of broken/loose sockets in the chamber’s ports and buses using crimping tools for proper electrical contact and functionality with its peripherals.
 
+Extracurriculars
+====
+Marine Robotics Group | Electrical Team Member | Sept. 2024 – Present
+* Constructed a functional electrical block schematic using KiCAD for the half-scale autonomous marine robot for the Microtransat competition. Currently prototyping on breadboards before manufacturing a permanent PCB.
+* Designed a light tower system that relays information about the robot’s status/ failures that will later be programmed through firmware.
+* Developing skills in PCB Design (KiCAD), power electronics, firmware development (ESP32), and electronic test equipment
   
 Skills
 ======
