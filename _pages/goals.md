@@ -24,6 +24,7 @@ Semiconductor Engineer Role (5+ Years Post Graduation)
 ----
 Eventually, I hope to finally land a role at a semiconductor company within 5-7 years post graduation. While it may be difficult to find work in fabrication, working with semiconductors in general adds tremendous value to my career. I would like to stick with companies such as/similar to Texas Instruments, Micron, TSMC, Samsung, etc. where I would be exposed to work directly adjacent to my work in college/past jobs. 
 
+
 Next Steps
 ====
 
