@@ -12,13 +12,13 @@ My project files can be found [here.](https://github.com/chinmaybandapalli/keybo
 
 Idea
 ----
-For my Discovery Project for ECE Discovery Studio, I decided to start making a keyboard PCB from scratch. I decided to use MX style switches to promote modularity and customizability. MX switches are some of the more readily available keyswitches on the market, so I thought it would be easier to work with. At first, I wanted to add other peripherals such as a rotary encoder or an OLED display, but due to the complexity and time constraints of the project, I was not able to incorporate them into my design. I wanted the keyboard to use USB 2.0 Type C as the Type C connector is becoming more universal. The keyboard layout follows an 83 key layout, essentially a full size keyboard minus the numpad and three keys in the top right cluster. I decided to go with this project because I wanted to learn the basics of PCB design and how to use KiCAD.
+For my Discovery Project for ECE Discovery Studio, I decided to start making a keyboard PCB from scratch. I decided to use MX style switches as they were relatively easy to work with and there are tons of resources online about them. MX switches are some of the more readily available key switches on the market, so I thought it would be easier to find as well. At first, I wanted to add other peripherals such as a rotary encoder or an OLED display, but due to the complexity and time constraints of the project, I was not able to incorporate them into my design. I wanted the keyboard to use USB 2.0 Type C as the Type C connector is becoming more universal. The keyboard layout follows an 83 key layout, essentially a full size keyboard minus the numpad and three keys in the top right cluster. I decided to go with this project because I wanted to learn the basics of PCB design and how to use KiCAD.
 
 I used a couple of tutorials to help me along this project, here are the links: [ai03's Keyboard Guide](https://wiki.ai03.com/books/pcb-design), [Masterzen's Keyboard Guide](https://www.masterzen.fr/2020/05/03/designing-a-keyboard-part-1/), and [Noah Kiser's TKL Keyboard Series](https://www.youtube.com/watch?v=6Z49bynRqj8&list=PLstjCi968EZftHZSitvqiVnyZ1CbmptIB). Unfortunately, some of these tutorials were a bit flawed with their fundamentals, leading to a generally messy, albeit informative PCB design experience.
 
-Progess
+Progress
 ----
-In the first two weeks, I was able to construct a draft schematic of the microcontroller system (picture below). As per the tutorials, the general structure of the schematic held a microcontroller unit, voltage regulator (5V to 3.3V), a reset switch with a 5 pin header as backup, a boot switch that went with a memory chip (for boot purposes), ESD protection, crystal, decoupling capacitors, the USB 2.0 Type C Receptable, and the keyswitch matrix which involved the MX switches and their respective diodes. The keyswitch matrix houses all the MX switches and the rows/columns are intentionally labeled to simply IO connections with the motherboard. 
+In the first two weeks, I was able to construct a draft schematic of the micro-controller system (picture below). As per the tutorials, the general structure of the schematic held a micro-controller unit, voltage regulator (5V to 3.3V), a reset switch with a 5 pin header as backup, a boot switch that went with a memory chip (for boot purposes), ESD protection, crystal, decoupling capacitors, the USB 2.0 Type C receptacle, and the key switch matrix which involved the MX switches and their respective diodes. The key switch matrix houses all the MX switches and the rows/columns are intentionally labeled to simply IO connections with the motherboard. 
 
 Microcontroller:
 
@@ -30,7 +30,7 @@ Switch Matrix:
 
 Through making these peripherals and looking through the tutorials, I was able to learn some KiCAD macros/hotkeys to make designing more efficient. I also learned some basic design rules (e.g. power points up and ground points down) that I can use if I decide to make another PCB in the future. Since nothing is set in stone at the moment, anything about the schematic choices can change. 
 
-For the last three weeks leading up to the showcase, I worked on the PCB layout itself. I ended up completing 80% or so of the first draft as I am yet to wire the keyswitch matrix and plug the respective rows and columns to the microcontroller unit. I was able to complete a rough draft of the USB 2.0 connector portion:
+For the last three weeks leading up to the showcase, I worked on the PCB layout itself. I ended up completing 80% or so of the first draft as I am yet to wire the key switch matrix and plug the respective rows and columns to the micro-controller unit. I was able to complete a rough draft of the USB 2.0 connector portion:
 
 ![USB](/images/USB.png)
 
@@ -42,7 +42,7 @@ Again, there are several design flaws, especially with the routing, but I fixed 
 
 Successes and Failures
 ----
-This project was certainly a learning experience. I made several errors routing components together (such as 90 degree traces, incorrect trace width, wrong differential pair gap, etc.), but I was able to learn WHY they were wrong and put effort into preventing those mistakes. One major issue that I currently have with this design is that the trace widths are inconsistent and the MCU unit is too far from the USB connector. There are also issues with diode placement for the keyswitches. One roadblock early on was that I realized that I used an outdated microcontroller with not enough IO pins, so I had to start all over again with a new unit. In the future, I hope to upgrade the RP2040 to the STM32 as the STM32 has better IO, extra built-in circuitry, and generally is easier to code firmware. Another roadblock was trying to fit all the traces in a compact way, which took a lot of playing around with the positioning/software. The most frustrating part was trying to shape the traces in the way I wanted, but due to constraints, it ended up being quite finicky.
+This project was certainly a learning experience. I made several errors routing components together (such as 90 degree traces, incorrect trace width, wrong differential pair gap, etc.), but I was able to learn WHY they were wrong and put effort into preventing those mistakes. One major issue that I currently have with this design is that the trace widths are inconsistent and the MCU unit is too far from the USB connector. There are also issues with diode placement for the key witches. One roadblock early on was that I realized that I used an outdated micro-controller with not enough IO pins, so I had to start all over again with a new unit. In the future, I hope to upgrade the RP2040 to the STM32 as the STM32 has better IO, extra built-in circuitry, and generally is easier to code firmware. Another roadblock was trying to fit all the traces in a compact way, which took a lot of playing around with the positioning/software. The most frustrating part was trying to shape the traces in the way I wanted, but due to constraints, it ended up being quite finicky.
 
 There were some successes however. I was pleased with the layout I ended up with as it has all the keys I wanted while having extra space in the top right for peripherals if I wanted to add them. I also became more familiar with the KiCAD shortcuts and settings to help with future problem solving and general design efficiency. While the project was frustrating at times, the knowledge I gained from the tutorials and actually practicing PCB tasks was certainly worth it. I also learned a little bit about general circuit design: the importance of decoupling capacitors, how voltage regulators worked, and the application of diodes. I was familiar with schematic work prior to this project, but now I had the chance to use the PCB editor and learn how to use that. 
 
@@ -50,22 +50,24 @@ Skills Gained
 ----
 Here are some the skills I would say I gained from this project:
 - PCB Design (rules, shortcuts, tricks, etc.)
-- KiCAD softwre use
+- KiCAD software use
 - Circuit Design
 - Debugging and Troubleshooting Circuits
 - Schematic Documentation
 
 In summary, I learned the very basics of PCB design along with using GitHub to do version control and documentation. 
 
-Final Thoughts
+Final Thoughts and Future Plans
 ----
-This project certainly is worth my time and effort as I am learning an industry skill of PCB design. Although at times frustrating, I was able to overcome obstacles posed by design errors and make solid progress. This was likely not the best design project to learn the fundamentals of PCB design, but I felt I was able to learn from my mistakes much more effectively than if I did a more simple project. I can definitely say I am at least an amateur at KiCAD and I am looking forward to potentially applying these skills to my Marine Robotics Club. This is still ongoing and there still a lot to learn, so I can not wait to make more progress on this keyboard.  
+This project certainly is worth my time and effort as I am learning an industry skill of PCB design. Although at times frustrating, I was able to overcome obstacles posed by design errors and make solid progress. This was likely not the best design project to learn the fundamentals of PCB design, but I felt I was able to learn from my mistakes much more effectively than if I did a more simple project. 
+
+The main technical thing I got out of this project was that a schematic is living document because anything could change at anytime. I also learned the value of doing extensive research and the importance of patience, especially when designing boards with small, sensitive components. I did not know how much effort went into designing PCBs until I had to redo my design several times to get everything to fit together. Despite all the shortcomings and frustrations, I love what this project has taught me and has definitely gotten me more invested in circuit technology and semiconductors. I am looking forward to potentially applying these skills to my Marine Robotics Club as well. This is still ongoing and there still a lot to learn, so I can not wait to make more progress on this keyboard.  
 
 Since I have a lot left to go, here is a list of future goals I have for this project:
 - Optimize routing and trace width calculations
 - Change to a 4-layer PCB to simply routing
 - Change the MCU from a RP2040 to a STM32 based chip
-- Bring the MCU loop system much closer to the USB 2.0 receptable
+- Bring the MCU loop system much closer to the USB 2.0 receptacle
 - Adjust the positioning of each diode for the switches
 - Mounting holes positioning
 - Silkscreen design
@@ -74,8 +76,6 @@ Since I have a lot left to go, here is a list of future goals I have for this pr
 As for much later in the future:
 - Add peripherals such as a rotary encoder (volume control), LED screen, solenoid, etc.
 - Design a case and switch plate
-
-Some of these goals are more pressing than others, but I hope to hit some of these in the coming future. 
 
 LED Peripheral for DE-10 Standard | Spring 2025
 ====
